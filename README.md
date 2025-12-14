@@ -1,3 +1,9 @@
+![GitHub stars](https://img.shields.io/github/stars/tharun14121/Brain-Tumor-detection)
+![GitHub forks](https://img.shields.io/github/forks/tharun14121/Brain-Tumor-detection)
+![GitHub repo size](https://img.shields.io/github/repo-size/tharun14121/Brain-Tumor-detection)
+![GitHub last commit](https://img.shields.io/github/last-commit/tharun14121/Brain-Tumor-detection)
+
+
 # Brain Tumor Detection from MRI Images using Deep Learning
 
 **Project Overview**
